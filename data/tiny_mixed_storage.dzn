@@ -1,0 +1,16 @@
+nbTypes = 5;
+nbTimeslots = 10;
+nbItems = 7;
+storageCost = 17;
+types = [1, 2, 2, 3, 4, 5, 5];
+dueTimeslots = [2, 5, 9, 10, 5, 5, 7];
+
+changeCost = array2d(Types, Types, 
+[|0, 454, 465, 84, 113
+|207, 0, 383, 216, 299
+|71, 285, 0, 392, 105
+|255, 312, 112, 0, 361
+|344, 49, 354, 335, 0
+|]);
+
+

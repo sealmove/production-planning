@@ -1,0 +1,5 @@
+building: PASS
+data/tiny_broken.dzn: PASS
+data/tiny_mixed_storage.dzn: PASS
+data/tiny_mixed_change.dzn: PASS
+data/tiny.dzn: PASS

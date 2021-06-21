@@ -1,0 +1,18 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "production-planning.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "data/big.dzn",
+        "data/small.dzn",
+        "production-planning.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.0",
+    "version": 105
+}
